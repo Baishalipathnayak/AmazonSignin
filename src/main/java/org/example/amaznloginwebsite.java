@@ -23,7 +23,7 @@ public class amaznloginwebsite {
     @DataProvider(name = "LoginData")
     public Object[][] provideLoginData() {
         return new Object[][] {
-                { "baishali169@gmail.com", "Danny@2728" },
+                { "baishali169@gmail.com", "11111111" },
                 // You can add more test data here
         };
     }
