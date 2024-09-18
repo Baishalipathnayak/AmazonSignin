@@ -43,7 +43,7 @@ public class amazonlogin {
         WebElement amazonContinue =wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//input[@id='continue']")));
         amazonContinue.click();
         WebElement amazonPassword = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//input[@id='ap_password']")));
-        amazonPassword.sendKeys("Danny@2728");
+        amazonPassword.sendKeys("111111111111");
 
 
 
